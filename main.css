@@ -215,7 +215,7 @@ nav a:active {
     flex-wrap: wrap;
     justify-content: center; */
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 2fr));
 }
 .trend {
     /* flex: 0 0 20%;
@@ -235,7 +235,7 @@ nav a:active {
     padding: .5em; 
 }
 .main img {
-    width: 20em;
+    width: 50%;
     height: 8em;
     padding: 0 25%;
 }
@@ -251,7 +251,6 @@ form {
     margin: 1em 5em;
     padding: .75em;
     font-size: 1em;
-    justify-items: center;
 }
 .pf-pics{
     border-bottom: .5em solid #1459ee;

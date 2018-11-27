@@ -215,7 +215,7 @@ nav a:active {
     flex-wrap: wrap;
     justify-content: center; */
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(30%, 2fr));
+    grid-template-columns: repeat(auto-fill, minmax(360px, 2fr));
 }
 .trend {
     /* flex: 0 0 20%;
